@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		CD84FBA12955F2120045DB4C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FBA02955F2120045DB4C /* main.swift */; };
+		CD84FBA82959A4C40045DB4C /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FBA72959A4C40045DB4C /* Shop.swift */; };
+		CD84FBAA2959A5480045DB4C /* MarketProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FBA92959A5480045DB4C /* MarketProducts.swift */; };
+		CD84FBAC2959A78F0045DB4C /* autoPartsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FBAB2959A78F0045DB4C /* autoPartsStore.swift */; };
+		CD84FBAE2959A7B70045DB4C /* MarketShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FBAD2959A7B70045DB4C /* MarketShop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		CD84FB9D2955F2120045DB4C /* HomeWork2month2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HomeWork2month2; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD84FBA02955F2120045DB4C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CD84FBA72959A4C40045DB4C /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
+		CD84FBA92959A5480045DB4C /* MarketProducts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketProducts.swift; sourceTree = "<group>"; };
+		CD84FBAB2959A78F0045DB4C /* autoPartsStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = autoPartsStore.swift; sourceTree = "<group>"; };
+		CD84FBAD2959A7B70045DB4C /* MarketShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketShop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				CD84FBA02955F2120045DB4C /* main.swift */,
+				CD84FBAD2959A7B70045DB4C /* MarketShop.swift */,
+				CD84FBAB2959A78F0045DB4C /* autoPartsStore.swift */,
+				CD84FBA92959A5480045DB4C /* MarketProducts.swift */,
+				CD84FBA72959A4C40045DB4C /* Shop.swift */,
 			);
 			path = HomeWork2month2;
 			sourceTree = "<group>";
@@ -121,6 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD84FBA12955F2120045DB4C /* main.swift in Sources */,
+				CD84FBA82959A4C40045DB4C /* Shop.swift in Sources */,
+				CD84FBAA2959A5480045DB4C /* MarketProducts.swift in Sources */,
+				CD84FBAE2959A7B70045DB4C /* MarketShop.swift in Sources */,
+				CD84FBAC2959A78F0045DB4C /* autoPartsStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
